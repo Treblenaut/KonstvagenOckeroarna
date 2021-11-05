@@ -1,1 +1,10 @@
 /* id, name, category, description, address, phoneNumber, email, image */
+{
+  "artist":[
+    {
+      "id": 1,
+      "name": "Stan Gill",
+      "category": "Wood"
+    }
+  ]
+}
