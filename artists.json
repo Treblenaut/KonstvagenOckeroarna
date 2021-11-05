@@ -4,6 +4,51 @@
       "id": 1,
       "name": "Stan Gill",
       "category": "Wood"
-    }
+    },
+    {
+      "id": 2,
+      "name": "Christian Johnston",
+      "category": "Steel"
+    },
+    {
+      "id": 3,
+      "name": "Shayne Ellison",
+      "category": "Dance"
+    },
+    {
+      "id": 4,
+      "name": "Victor Donaldson",
+      "category": "Acrylic"
+    },
+    {
+      "id": 5,
+      "name": "Romilly Diaz",
+      "category": "Watercolour"
+    },
+    {
+      "id": 6,
+      "name": "Kira McNeill",
+      "category": "Ceramics"
+    },
+    {
+      "id": 7,
+      "name": "Dominika Goldsmith",
+      "category": "Music"
+    },
+    {
+      "id": 8,
+      "name": "Mckenzie Bain",
+      "category": "Dance"
+    },
+    {
+      "id": 9,
+      "name": "Zakir Rose",
+      "category": "Stone"
+    },
+    {
+      "id": 10,
+      "name": "Rosemarie Gentry",
+      "category": "Wood"
+    },
   ]
 }
