@@ -1,0 +1,47 @@
+[
+ {
+   "Number": 1,
+   "Name": "Gunbritt Marie Beijer",
+   "Category": "Måleri",
+   "Island": "Fotö",
+   "Address": "Sjöbod vid korsviksvägen ",
+   "Coordinates": "57.66603, 11.65663",
+   "Latitude": 57.66603,
+   "Longitude": 11.65663,
+   "Website": null,
+   "Instagram": "www.instagram.com/Gallerimarie",
+   "Facebook": null,
+   "Description": "Min passion för konst startade redan när jag var ung. Min inspiration har jag fått genom mina resor, efter det blev jag intresserad av att måla själv. Har efter detta gått flera konstmuseer bl.a i Sverige och Marocko. Jag målar i akryl och i blandad stil. ",
+   "ExhibitionImage": "https://treblenaut.github.io/KonstvagenOckeroarna/docs/images/001.jpg"
+ },
+ {
+   "Number": 2,
+   "Name": "Ann-Sofie Berntsson",
+   "Category": "Måleri",
+   "Island": "Fotö",
+   "Address": "Kängavägen 8",
+   "Coordinates": "57.6676, 11.65608",
+   "Latitude": 57.6676,
+   "Longitude": 11.65608,
+   "Website": null,
+   "Instagram": "www.instagram.com/annsofie.berntsson",
+   "Facebook": "www.facebook.com/profile.php?id=100078488533181",
+   "Description": "Jag målar tavlor i akryl och mest målar jag figurer och blommor.",
+   "ExhibitionImage": "https://treblenaut.github.io/KonstvagenOckeroarna/docs/images/001.jpg"
+ },
+ {
+   "Number": 3,
+   "Name": "Caisa Nilsson",
+   "Category": "Måleri",
+   "Island": "Fotö",
+   "Address": "Sjöbod vid CafeBoa, Korsviksvägen ",
+   "Coordinates": "57.66755, 11.65489",
+   "Latitude": 57.66755,
+   "Longitude": 11.65489,
+   "Website": null,
+   "Instagram": null,
+   "Facebook": "www.facebook.com/caisa",
+   "Description": "Jag har målat i perioder  började med olja, fortsatt med akvarell och akryl. Det blir för det mesta fritt från hjärtat, tycker inte om att måla av bilder! För det mesta blir det natur och abstrakt!",
+   "ExhibitionImage": "https://treblenaut.github.io/KonstvagenOckeroarna/docs/images/001.jpg"
+ }
+]
